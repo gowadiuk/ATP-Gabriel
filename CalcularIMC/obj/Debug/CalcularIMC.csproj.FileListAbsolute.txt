@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\gabri\Desktop\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\Curso\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb
